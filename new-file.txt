@@ -1,2 +1,19 @@
-This is the content of new-file
-One more edit.
+Let us imagine a scenario where merge conflict happens.
+lets say there is a company xyz. This company is developing a
+ coding platform product which will be used by universities to
+ conduct coding tests. 2 new developers r joining the company to 
+ work for that product. One of them Dev-1 is assigned to work on 
+ API integration. Files 1-60 r being worked on by Dev-1 taken 
+ from the main branch.
+Another person dev-2 is assigned to work on 
+ UI/UX development of the product. Files 30 - 90 r being worked 
+ upon by dev-2. 
+  Once assigning these tasks to 
+ the 2 developers, the other devops work on the product 
+ themselves and they work on files 90 - 120. 
+ Now dev-1 has completed the API integration and now wants to
+ merge his work with the main product. He gives a pull request 
+ to the main devops and gets his version on the main code.
+ Now dev-2 has worked on his files and completed his tasks and 
+ wants to merge his work too. he gives a pull request and the main
+ devops try to merge the work of dev-2. What happens?
