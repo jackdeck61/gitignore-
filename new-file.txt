@@ -1,4 +1,3 @@
-Let us imagine a scenario where merge conflict happens.
 lets say there is a company xyz. This company is developing a
  coding platform product which will be used by universities to
  conduct coding tests. 2 new developers r joining the company to 
